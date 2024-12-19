@@ -1,0 +1,9 @@
+fullname= a small pick-axe
+desc= A small pick-axe obviously designed for petite hands. It is quite worn and it's wooden handle has been rubbed smooth by years of use.
+locdesc= On the floor is a small pick-axe.
+shortname= axe,pickaxe
+weight= 200
+value= 100
+damage= 4
+respawn= 20
+location=535

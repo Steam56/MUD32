@@ -1,0 +1,9 @@
+fullname= a woodsmans axe
+desc= This two headed axe has a long oak handle, and could easily fell the largest of trees, or the largest of enemies.
+locdesc= Lying on the floor is a woodsmans axe.
+shortname= axe, ax
+weight= 200
+value= 100
+damage= 6
+respawn= 20
+location=505

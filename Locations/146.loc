@@ -1,0 +1,8 @@
+0 Southern Intersection
+1 You are standing in a small clearing. Looking at the trees you notice that they have been violently cleared and the logs lay about shredded littering the pathway. Upon furter inspection of one of the logs you notice a small placard that says "welcome to Manalo Island". Toward the south there is a peninsula with a rope bridge. There is a path that continues to the north and two that continue East and West along the cliffside.
+2 N,North,102
+2 E,East,104
+2 W,West,103
+2 S,South,150
+3 Natas
+4 ISLAND

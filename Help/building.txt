@@ -1,0 +1,17 @@
+&w1To become a builder you have to request 'Builder Status' once that has been done you can then use the '&c1BUILD&w1' command (this command can be shortened to '&c1@&w1'. 
+To..
+  &w1Create a New Location:  &c1BUILD NEWLOC Loc_Name
+  &w1Delete a Location:      &c1BUILD REMLOC Loc_No
+  &w1Add a Loc Description:  &c1BUILD LOCDESC Loc_No Loc_Desc
+  &w1Set Location Zone:      &c1BUILD LOCZONE Loc_No Zone_Name
+  &w1Change Location Name:   &c1BUILD LOCNAME Loc_No Loc_Name
+  &w1Change Loc Owner:       &c1BUILD LOCOWN Loc_No Loc_Owner
+  &w1Set Location Flags:     &c1BUILD LOCFLAG Loc_No Flag_List
+  &w1(Location flags can be one or more of: &c1SAFE DARK&w1)
+
+  &w1To 'DIG' an exit:       &c1BUILD DIG Direction From_Loc_No To_Loc_No 
+  &w1To Remove an exit type: &c1BUILD UNDIG Direction From_Loc_No
+  &w1(Direction can be &c1N S E W NE SE SW NW U D O&w1)
+ 
+  &w1View Location Info:     &c1BUILD LOCINFO Loc_No
+  &w1View Location Exits:    &c1BUILD LOCEXIT Loc_No

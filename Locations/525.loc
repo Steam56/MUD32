@@ -1,0 +1,13 @@
+0 Deeper In The Wine Cellar
+1 Surrounded by empty wine racks you continue to wander the maze like wine cellar. There seem to be exits all around you.
+2 o,out,526
+2 n,north,527
+2 e,east,527
+2 s,south,527
+2 w,west,527
+2 ne,northeast,527
+2 se,southeast,527
+2 sw,southwest,527
+2 nw,northwest,527
+3 Jaruzel
+4 PALACE

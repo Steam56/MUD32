@@ -1,0 +1,10 @@
+@           admin       ask         attack      brief       build
+clr         colour      date        drop        echo        exam
+examine     exit        fl          flee        get         give
+i           id          inven       join        kill        l
+laston      levels      logoff      logout      look        me
+motd        password    pickup      profile     ql          quit
+read        ret         say         sayto       sc          score
+shout       statusbar   steal       suffix      sysping     take
+tell        time        top         uptime      who         width
+write       

@@ -1,0 +1,18 @@
+Colour Table:
+
+&k0 Black  
+&b0 Blue  
+&g0 Green  
+&c0 Cyan  
+&r0 Red  
+&p0 Purple  
+&y0 Brown  
+&w0 Grey  
+&k1 Dark Grey  
+&b1 Light Blue  
+&g1 Light Green  
+&c1 Light Cyan  
+&r1 Light Red  
+&p1 Light Purple  
+&y1 Yellow  
+&w1 White  

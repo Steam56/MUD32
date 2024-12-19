@@ -1,0 +1,11 @@
+0 Wine Cellar
+1 The Patrician was a man very fond of his wine, and had an extensive wine cellar built under the Palace. All the wine is gone now, leaving rooms of empty wooden wine racks. There are exits in most directions.
+2 n,north,521
+2 e,east,527
+2 s,south,527
+2 w,west,525
+2 se,southeast,527
+2 sw,southwest,525
+2 o,out,521
+3 Jaruzel
+4 PALACE

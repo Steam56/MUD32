@@ -1,0 +1,8 @@
+0 Deeper Into The Caves
+1 This small chamber is sandy on all sides with damp gravel underfoot. A small archway leads south into a larger cavern, an archway to the east emits a greenish glow, and an ornate archway leads west. You can also hear water dripping in the distance.
+2 S,South,1
+2 E,East,9
+2 W,West,4
+3 Me
+4 CAVES
+5 SAFE

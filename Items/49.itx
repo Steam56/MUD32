@@ -1,0 +1,9 @@
+fullname= a barrel of ale
+desc= A small barrel of very old ale. It is sealed.
+locdesc= On the floor, on its side, is a barrel of ale
+shortname= ale, barrel
+weight= 200
+value= 100
+damage= 0
+respawn= 20
+location=142

@@ -1,0 +1,7 @@
+0 The Green Cavern
+1 This small cave is aglow with a soft green light that is being emitted from the large patches of moss that are growing on the walls, the dampness of which indicates that there may be water nearby,this is confirmed by the sound of dripping water to the north. A small rough archway leads west, and there is a smallish crack in the wall to the east.
+2 W,West,7
+2 N,North,8
+2 E,East,5,You squeeze thorugh the crack...
+3 Jaruzel
+4 CAVES

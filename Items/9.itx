@@ -1,0 +1,10 @@
+fullname= The MUD32 Notice Board
+desc= A dusty old chalkboard covered in scrawed messages. A small chalk is hanging by a string at one side. it looks like you can READ or WRITE messages here.
+locdesc= You notice a dusty chalkboard by the bar, covered in messages. Type 'READ' to read them.
+shortname= board, chalk, chalkboard
+weight= 9999
+value= 0
+damage= 0
+respawn= 20
+tooheavy= You cannot take it, it is bolted to the bar. You'll just have to remember the messages instead. You can however, READ or WRITE messages.
+location=601

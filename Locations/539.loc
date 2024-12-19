@@ -1,0 +1,7 @@
+0 In the woods
+1 You are deep in the woods. Around you on 3 sides are thick trees, their branches so tightly entwined that the only exit seems to be to the north. On the fourth side of you is a high stone wall, worn smooth over the years by the elements. One tree seems to stand out from the others, it is slightly larger than those that surround it and its branches start lower down its trunk.
+2 n,north,538
+2 u,up,540,You climb up the large tree...
+2 climb,climb,540,You climb up the large tree...
+3 Jaruzel
+4 WOODS

@@ -1,0 +1,1 @@
+&w1To move your character about, simply look at the location description with the command '&c1LOOK&w1' (as with most commands this can be abbreviated to the first letter '&c1L&w1'). In the descripton will be hints as to the directions you can travel in. Most locations use points of the compass, so to travel north, you would type '&c1NORTH&w1', or '&c1N&w1'.

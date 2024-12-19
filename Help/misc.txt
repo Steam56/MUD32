@@ -1,0 +1,14 @@
+&w1There are a few helpful commands that should make you life in the MUD easier. These are:
+
+&c1SCORE                  &w1Tells you your level and current score.
+&c1TOP                    &w1Will show you the top 10 players in the world.
+&c1SUFFIX xxxx            &w1Sets your name to be 'Gandalf the xxxx Novice'
+&c1BRIEF                  &w1Sets the amount of room description you see.
+&c1PROFILE xxxx           &w1Sets a more descriptive sentence about you for others.
+&c1QUIT                   &w1Disconnects you from the MUD.
+&c1ATTACK xxxx WITH yyyy  &w1To start a fight; 
+                       &w1where xxxx is a player and yyyy a weapon.
+                       &w1(type HELP SOCIAL for more information)
+
+
+

@@ -1,0 +1,10 @@
+fullname= a bag of gold
+desc= A small leather bag of gold tied closed with a thin piece of leather. If you shake the bag you can hear the money clinking inside.
+locdesc= Lying on the ground is a small bag of gold.
+shortname= bag,gold,money
+weight= 400
+value= 200
+damage= 0
+respawn= 20
+flags= -INVIS
+location=1

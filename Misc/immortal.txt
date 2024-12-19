@@ -1,0 +1,4 @@
+&w1You are now an immortal! All that hard work has finally paid off. As an immortal you now have access to extra commands known as 'immortal powers' please use them wisely and responsibly. 
+&w1As an immortal you should set a good example to others, as such you can now no longer attack other players. You can however still accrue points and advance any remaining levels if you so wish.
+&w1For a full list of immortal commands type '&c1HELP IMMORTAL&w1'.
+&w1Please be discrete with your immortal knowledge, and try not to divulge the workings of your new found powers.

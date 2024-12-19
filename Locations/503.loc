@@ -1,0 +1,8 @@
+0 The Palace Lawn
+1 Once these lawns were in a beautiful condition, each was a lush carpet of deep green turf, perfect for the odd game of croquet or a picnic on a sunny afternoon. These days though, the grass is as high as your waist and has completely gone to seed. To the north you can see a dilapidated structure, built originally to the style of the palaces that were the homes of great Sultans. Although most of the roof is gone, one turret still stands, and the building on the whole still looks sound. To the east you can hear soft tinkling, but the grass obscures the source. A small wooden structure is just visible to the west.
+2 s,south,500,You climb through the gap in the gates...
+2 e,east,504
+2 w,west,505
+2 n,north,506
+3 Jaruzel
+4 PALACE

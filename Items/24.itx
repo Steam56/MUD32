@@ -1,0 +1,9 @@
+fullname= an old map
+desc= An old faded map, yellow with age. It looks like someone has recently attempted to update it, in one corner you can see the scrawled words 'ANGEL' and 'LEGNA'. Although to what they refer you cannot tell.
+locdesc= Lying on the ground is an old map.
+shortname= map
+weight= 1
+value= 0
+damage= 0
+respawn= 20
+location=531

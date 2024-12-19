@@ -1,0 +1,8 @@
+0 Inside the Abandoned Bar
+1 The bar is well lit due to the holes in the ceiling which allows light into just about everywhere. On the north side of the bar you notice a door labeled 'beer garden', and there is a smaller door to the west. Bar stools are strewn everywhere and in front of you is a large wooden bar that’s just begging you to jump over it.
+2 N,North,147
+2 W,West,142
+2 S,South,109
+2 J,Jump,141,You jump behind the bar....
+3 Natas
+4 ISLAND

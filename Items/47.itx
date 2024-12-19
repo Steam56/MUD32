@@ -1,0 +1,9 @@
+fullname= the sword of Azrael
+desc= The Sword of Azrael is a fine sword cast in pure platinum, although the sharp edge is not where it's power lies. Once weilded the sword will burst into flame, scorching and burning anything it comes in cantact with.
+locdesc= Glinting on the ground is the Sword of Azrael.
+shortname= sword, azrael
+weight= 200
+value= 3000
+damage= 45
+respawn= 2
+location=11

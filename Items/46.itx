@@ -1,0 +1,9 @@
+fullname= a small brown teddy bear
+desc= This bear is old and scruffy, and shows signs of having been loved in it's time. It is brown in colour with tan paws and tummy. It is very soft and cuddly.
+locdesc= Before you on the floor is a teddy bear, looking lonely.
+shortname= teddy,bear
+weight= 20
+value= 50
+damage= 0
+respawn= 1
+location=10

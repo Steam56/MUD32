@@ -1,0 +1,7 @@
+0 The Chapel Door
+1 You are standing at the door to the chapel building. The heavy oak door has the shape of a cross carved deep in the wood, and although worn the letters INRI are written above it.
+1 You can open the door and head inside, or head east towards the tunnel mouth.
+1 Alternativly you can head south towards the shed.
+2 O, Open, 407, You grip the handle and open the door into the ....
+2 E, East, 402, You head towards the tunnel mouth.
+2 S, South, 408, You head towards the shed

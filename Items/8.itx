@@ -1,0 +1,9 @@
+fullname= a small locket
+desc= A small heart shaped locket made from silver, with a loop at the top for hanging from a chain.
+locdesc= Your eye is drawn to a small locket.
+shortname= locket
+weight= 10
+value= 50
+damage= 0
+respawn= 20
+location=514

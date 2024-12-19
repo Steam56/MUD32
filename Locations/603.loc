@@ -1,0 +1,9 @@
+0 Taymark Arms - Snooker Room
+1 This square room houses only one piece of furniture, a large pay-per-play snooker table, lit only by a large light in a low hung green shade. There are two doors leading off to the south and to the east, labeled 'Gents' and 'Ladies' respectively. And a small staircase leading down.
+2 n,north,601
+2 s,south,605
+2 e,east,604
+2 d,down,606
+3 Jaruzel
+4 TAYMARKINN
+5 SAFE

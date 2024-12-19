@@ -1,0 +1,9 @@
+fullname= a bottle of wine
+desc= A vintage Cabernet Savingnon, housed in a dusty green bottle, it's label is peeled and faded. Although undrinkable, it is probably quite valuable.
+locdesc= There is a bottle of wine here.
+shortname= bottle,wine
+weight= 100
+value= 75
+damage= 0
+respawn= 20
+location=526

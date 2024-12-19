@@ -1,0 +1,9 @@
+fullname= a gold chain
+desc= A thin gold chain made of small round links, about the right length for a ladies neck.
+locdesc= A small gold chain draws your attention.
+shortname= chain
+weight= 30
+value= 200
+damage= 0
+respawn= 40
+location=510

@@ -1,0 +1,9 @@
+fullname= a rusty longsword
+desc= Although slighty rusty this longsword still has a keen edge and could dice through even the most oppressive of foes.
+locdesc= Lying on the ground is a rusty longsword.
+shortname= sword, ls, long, longsword
+weight= 200
+value= 100
+damage= 6
+respawn= 20
+location=658

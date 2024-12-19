@@ -1,0 +1,4 @@
+&w1You are rarely alone in the world, to find out who else is playing type '&c1WHO&w1'. If someone is in the same location as you, you can talk to them with the '&c1SAY&w1' command, ie. '&c1SAY message&w1' where message is what you want to say.
+
+&w1To convey an emotion (IRC users should be familiar with this) use the command '&c1ME&w1' followed by what you want your character to do, ie. '&c1ME grins manically&w1'. The other players will see (if your name was Gandalf) '&p1Gandalf grins manically&w1'.
+

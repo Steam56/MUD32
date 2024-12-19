@@ -1,0 +1,9 @@
+fullname= a faerie crystal
+desc= As you peer into the green crystal you think you can see small winged people flying about inside.
+locdesc= Your eye is attracted to a green crystal on the ground.
+shortname= crystal, faerie
+weight= 300
+value= 600
+damage= 0
+respawn= 120
+location=935

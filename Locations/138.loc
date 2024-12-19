@@ -1,0 +1,15 @@
+0 The Void
+1 There's no salvation here. There are also no exits, nor are there any buttons or secret trap doors.
+2 N,North,138,No seriously - there's no way out.
+2 S,South,138,No seriously - there's no way out.
+2 E,East,138,No seriously - there's no way out.
+2 W,West,138,No seriously - there's no way out.
+2 NE,NorthEast,138,No seriously - there's no way out.
+2 SE,SouthEast,138,No seriously - there's no way out.
+2 SW,SouthWest,138,No seriously - there's no way out.
+2 NW,NorthWest,138,No seriously - there's no way out.
+2 U,Up,138,No seriously - there's no way out.
+2 D,Down,138,No seriously - there's no way out.
+3 Natas
+4 ISLAND
+5 SAFE

@@ -1,0 +1,7 @@
+0 Bottom of Eastern staircase
+1 Before you is a thin stone stairway that ascends to the upper levels of the fort. A closed door leads west.
+2 w,west,657,The door is locked.
+2 open,open,657,The door is locked.
+2 U,Up,655
+3 Jaruzel
+4 FORT

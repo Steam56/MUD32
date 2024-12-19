@@ -1,0 +1,84 @@
+ESC code sequence		Function 
+
+cursor controls 
+ESC[#;#H or ESC[#;#f 	moves cursor to line #, column # 
+ESC[#A 					moves cursor up # lines 
+ESC[#B 					moves cursor down # lines 
+ESC[#C 					moves cursor right # spaces 
+ESC[#D 					moves cursor left # spaces 
+ESC[#;#R 				reports current cursor line & column 
+ESC[s 					save cursor position for recall later 
+ESC[u 					Return to saved cursor position 
+
+erase functions 
+ESC[2J clear screen and home cursor 
+ESC[K clear to end of line 
+
+color and text formatting 
+ESC[#(;#)m there can be multiple text formatting sequence numbers separated by a ; and ending with an m where the # is of the following values:
+
+attributes 
+0 normal display 
+1 bold 
+4 underline (mono only) 
+5 blink on 
+7 reverse video on 
+8 nondisplayed (invisible) 
+
+foreground colors 
+30 black 
+31 red 
+32 green 
+33 yellow 
+34 blue 
+35 magenta 
+36 cyan 
+37 white 
+
+background colors 
+40 black 
+41 red 
+42 green 
+43 yellow 
+44 blue 
+45 magenta 
+46 cyan 
+47 white 
+ 
+screen modes 
+ESC[=#;7h or
+ESC[=h or
+ESC[=0h or
+ESC[?7h put screen in indicated mode where # is: 0 40 x 25 black & white 
+1 40 x 25 color 
+2 80 x 25 b&w 
+3 80 x 25 color 
+4 320 x 200 color graphics 
+5 320 x 200 b & w graphics 
+6 640 x 200 b & w graphics 
+7 to wrap at end of line 
+ 
+ESC[=#;7l or
+ESC[=l or
+ESC[=0l or
+ESC[?7l resets mode # set with above command 
+
+--------------------------------------------------------------------------------
+ANSI codes: 
+Black            \e[0;30m
+Blue             \e[0;34m
+Green            \e[0;32m
+Cyan             \e[0;36m
+Red              \e[0;31m
+Purple           \e[0;35m
+Brown            \e[0;33m
+Gray             \e[0;37m
+Dark Gray        \e[1;30m
+Light Blue       \e[1;34m
+Light Green      \e[1;32m
+Light Cyan       \e[1;36m
+Light Red        \e[1;31m
+Light Purple     \e[1;35m
+Yellow           \e[1;33m
+White            \e[1;37m
+

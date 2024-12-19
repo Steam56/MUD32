@@ -1,0 +1,6 @@
+0 The Guard House
+1 The dank smell of rotting wood is almost over powering, but you manage to peer around in the gloom, picking out a small hut in severe disrepair. This used to be the first line of security where pristine guards used to check the visitors in and out of the Palace. As is apparent by the amount of cobwebs on the wood, the spiders seem to have taken up guardsman duties these days. There is a small dark hole in the floor, and the way out is out.
+2 o,out,500
+2 d,down,535, You drop through the hole.
+3 Jaruzel
+4 PALACE

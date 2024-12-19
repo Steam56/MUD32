@@ -1,0 +1,8 @@
+0 The Circle
+1 You stand in the centre of a ring of huge monolithic stones cut from what seems to be common granite.  Yet the stones hum with power and are warm to the touch.
+1 Step out of the circle to the north, or head west to a dirt road. To the east is a portal, shimmering in the light.
+2 N,North,401
+2 W,West,550
+2 E,East,1
+3 RogueAngel
+4 WOODS

@@ -1,0 +1,7 @@
+0 North-western side of the Island
+1 As you walk along the path you notice the change in surroundings; the thick forest gives way to sporatic trees which give way to dense underbrush. A clearing is visible to the South. There is a winding path that snakes through the bushes to the West. 
+2 S,South,113
+2 NE,NorthEast,110
+2 W,West,119,You clamber through the bushes and undergrowth in the direction of the winding path.
+3 Natas
+4 ISLAND

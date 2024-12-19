@@ -1,0 +1,12 @@
+&w1You can attack and kill other players in the world, by using the command '&c1ATTACK <who> WITH <weapon>&w1'. You can also use the command '&c1KILL&w1'
+
+Once engaged in hostilities, you can retaliate back with the command '&c1RET <weapon>&w1'
+
+Most weapons have shortnames of two letters to make this easier.
+
+If you are attacked and you die, you will lose half your points, BUT if you attack and you die, you will lose ALL you points. If you win on the other hand, you will gain half the losers points. 
+
+After death you will be resurrected back at the starting location, minus anything you were carrying, these will be left at the place of your demise.
+
+If you survive a fight, your health will probably be low. Until your health is back to maximum, any items you 'altar' will be acredited to your health instead of your score.
+

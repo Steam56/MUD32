@@ -1,0 +1,10 @@
+fullname= a plain wedding ring
+desc= A plain mens wedding ring, made of rare welsh gold. It's light rose colour shimmers seductively in the light.  
+locdesc= On the floor is a plain wedding ring.
+shortname= ring, wedding
+weight= 75
+value= 800
+damage= 0
+respawn= 20
+tooheavy= As you are carrying too much, you try to slip it on your finger, but it is too heavy and slides off.
+location=515

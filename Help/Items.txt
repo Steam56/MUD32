@@ -1,0 +1,11 @@
+&w1Scattered arround the world are items and objects. Some are totally useless, others have value, some are clues, a few can even be used as weapons. 
+
+To pick up an item simply type '&c1GET item_name&w1' where item_name is the item you want to pick up. So, if in the location description (see MOVEMENT in the help system) it says 'There is a diamond ring here.' you could pick it up with '&c1GET RING&w1'.
+
+Logically, to drop an item, type '&c1DROP item_name&w1'.
+
+To give an item to someone else, type '&c1GIVE item_name TO player_name&w1'
+
+To see what you are carrying type '&c1I&w1' (for inventory), you can also type '&c1I player_name&w1' to see what other people are carrying.
+
+Once you are carrying an item, you can type '&c1EXAM item_name&w1' to find information about it.
