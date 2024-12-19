@@ -1,8 +1,8 @@
 # MUD32
 
-On old MUD created in VB6 by MattOwen (Jaruzel)
+On old MUD created in VB6 by Matt Owen (Jaruzel)
 
-I thought I would get it in github for anyone who wasstill interested in it
+I thought I would get it in github for anyone who was still interested in it
 
 Matt's Site below contents
 https://mail.dworkin.nl/pipermail/mud-dev-archive/2002-April/022895.html
