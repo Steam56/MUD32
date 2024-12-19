@@ -1,0 +1,9 @@
+fullname= a bottle of aged scotch
+desc= A bottle of well aged scotch. Brushing the dust from the label you see the inviting liquid sloshing around invitingly.
+locdesc= On the bar you see a bottle of aged scotch.
+shortname= scotch, bottle
+weight= 6
+value= 100
+damage= 0
+respawn= 20
+location=601

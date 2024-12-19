@@ -1,0 +1,9 @@
+fullname= a beer barrel
+desc= A large wooden beer barrel with metal straps holding it together. It is sealed shut but you can hear sloshing when you move it.
+locdesc= Standing in the corner is a wooden beer barrel.
+shortname= beer,barrel
+weight= 1000
+value= 50
+damage= 0
+respawn= 20
+location=606

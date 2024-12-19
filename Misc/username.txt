@@ -1,0 +1,4 @@
+If you already have a player account, please enter it here.
+If you DO NOT have a player account, type NEW to create one.
+To join as a guest type 'GUEST'.
+

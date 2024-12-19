@@ -1,0 +1,18 @@
+&w1Players can advance through the game by gaining points. Points can be obtained by collecting valuable items (type EXAM <item> to see an items value) or by killing other players. So that it is easy to ascertain how far advanced someone is, a simple level system exists, as your points quota goes up, so does your level. The quota system is thus:
+
+&c1         Points      Male Level     Female Level
+&w1         ---------------------------------------
+&c1                 0   Novice         Novice
+&c1             2,000   Serf           Wench
+&c1             4,000   Adventurer     Adventuress
+&c1             8,000   Gallant        Vixen
+&c1            16,000   Valiant        Valkyrie
+&c1            32,000   Enchanter      Enchantress
+&c1            64,000   Warrior        Amazon
+&c1           128,000   Seer           Mystic
+&c1           256,000   Soothsayer     Oracle
+&c1           512,000   Sorcerer       Sorceress
+&c1         1,000,000   Wizard         Witch
+
+&w1Also you may come across players with the level 'ArchWizard' these are World Admins, and should be treated with respect at all times.
+

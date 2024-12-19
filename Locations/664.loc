@@ -1,0 +1,7 @@
+0 Under the Portcullis
+1 You are standing under a high archway, next to large wooden gates. The gates are closed and you cannot see any mechanism to open them. Hanging precariously above you in the shadows of the arch is an iron portcullis. There is a small door to the east and the courtyard to the south.
+2 e,east,664,The door is locked.
+2 open,open,664,The door is locked.
+2 s,south,660
+3 Jaruzel
+4 FORT

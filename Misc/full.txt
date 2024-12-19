@@ -1,0 +1,5 @@
+Sorry, the MUD is currently full. Please try again later.
+
+--
+MUD Admins
+mud32@jaruzel.com

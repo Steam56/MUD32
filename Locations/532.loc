@@ -1,0 +1,6 @@
+0 Outside the Maze
+1 To the north of you is the entrance to the Palace Maze, a large hedgerow cultivated over the centuries into a set of twisting and winding passageways. It is rumoured that many a quester has entered this maze in search of riches, never to be see of or heard of again. If today is not your day for mazing, the Fountain lies to the south.
+2 s,south,504
+2 n,north,902
+3 Jaruzel
+4 PALACE

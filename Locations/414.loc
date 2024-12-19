@@ -1,0 +1,11 @@
+0 The Round Hall
+1 You find yourself in a perfeclty circular hall, lined with twelve different banners. Before each banner is a chair.  Every chair is the same. None is decorated more grewatly then the other, only one is different from the rest It has written upon it in golden letters 'Siege Perilous'.
+1 If memory serves you correctly it is best not to sit there.
+1 At the centre of the room is a table, also perfectly round. At the centre of the table is a stone, and running deep into the stone is a great sword.
+1 You could try and draw the sword but youve a feeling that you wont have much luck.
+1 Out will take you back out side, Draw will let you attempt to draw the sword.
+2 D,Draw,414,The damn thing wont budge.
+2 O,Out,413
+2 W ,West,413
+3 RogueAngel
+4 Camp

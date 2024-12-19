@@ -1,0 +1,11 @@
+  __  __           _ ____ ___                                 
+ |  ||  |  T H E  | |___ |__ |  This is the Beta Build of MUD32
+ | |__| |_   _  __| | __) | ) |   a Custom Virtual World Engine
+ | |  | | | | |/ _` ||__ < / /                                 
+ | |  | | |_| | (_| |___) / /_                The MUD32 Project
+ |_|  |_|___._|___._|____/____|                is Copyright (C)
+                                            Matt Owen 1997-2003
+                  P R O J E C T      http://www.Jaruzel.com/mud 
+                                                              
+ This is build version $VERSION$ ($OS$).
+

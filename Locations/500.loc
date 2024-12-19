@@ -1,0 +1,9 @@
+0 The Gates Of The Abandoned Palace 
+1 What were once proud tall impenetrable wooden gates, are now just large pieces of rotting wood hanging half off the iron hinges that long ago made them so firm. The decorative iron locks have long since rusted away leaving way for the virulent ivy to take hold in the bolt holes they used to occupy. 
+1 Either side of the gates are stone pillars easily twenty feet high, flanked by a fairly intact stone wall running off to the east and west. Through the gaps in the gates you can see an overgrown garden to the north, to the west is a wooden guardhouse, a field lies to the south, and there is a narrow path that follows the Palace wall to the east.
+2 w,west,501
+2 e,east,529
+2 n,north,503,You climb through the gap in the gates...
+2 s,south,534
+3 Jaruzel
+4 PALACE

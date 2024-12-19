@@ -1,0 +1,14 @@
+&w1The principle of this MUD is to scavenge for valuable objects and drop them in &c1The Old Throne Room&w1. In doing so, their value will be converted into points that are added to your score. The higher your score, the higher the level you will attain (type LEVELS). Along the way you may also be attacked by other players, or provoke a fight in which to gain or lose more points.
+
+Help is divided up into the following sections:
+
+   &c1MOVEMENT   &w1Information on moving your character about.
+   &c1ITEMS      &w1Information on how to use items.
+   &c1SOCIAL     &w1Information on communicating with people.   
+   &c1MISC       &w1Information on useful commands.
+   &c1COMBAT     &w1Information on Attacking other players.
+   &c1BUILDING   &w1Information on Building locations
+
+So, if you would like help on moving about, type &c1HELP MOVEMENT
+
+&w1For a full list of commands, type &c1HELP COMMANDS

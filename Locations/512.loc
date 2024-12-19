@@ -1,0 +1,8 @@
+0 Old Throne Room
+1 The Old Patrician used to receive his subjects in this grand throne room, although these days it is hardly grand. The drapes are gone, as is all the furniture.
+1 There is however one adornment left; a large engraved circle on the floor, with ornate writing around it's edge. These words although quite faded, read 'Traveller, drop gifts, and be rewarded'.
+2 s,south,511
+2 e,east,518
+2 w,west,513
+3 Jaruzel
+4 PALACE

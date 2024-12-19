@@ -1,0 +1,7 @@
+0 Courthouse
+1 Walking into the courthouse reveals the remains of piles of papers that have been strewn around the room on top of book cases and file cabinets. Most of the papers look to be your common everyday records that have been collected over the years revealing the purchases, lives, and deaths of the townspeople. In addition to the grand entrance doors to the West, a smaller doorway leads East.
+2 W,West,106,You walk out of the courthouse..
+2 O,Out,106,You walk out of the courthouse...
+2 E,East,156
+3 Natas
+4 ISLAND

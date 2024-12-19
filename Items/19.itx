@@ -1,0 +1,9 @@
+fullname= a rotted piece of wood
+desc= A large piece of deck material that has splintered off and has a few large nails poking from the ends
+locdesc= On the ground rests a rotted piece of wood
+shortname= wood
+weight= 60
+value= -10
+damage= 0
+respawn= 20
+location=147

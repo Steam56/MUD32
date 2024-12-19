@@ -1,0 +1,9 @@
+fullname= a gold ingot
+desc= A small gold ingot, with strage lettering embossed on the top. It is quite heavy
+locdesc= On the floor is a small gold ingot.
+shortname= gold,ingot,bar
+weight= 600
+value= 300
+damage= 0
+respawn= 20
+location=126

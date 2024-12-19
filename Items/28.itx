@@ -1,0 +1,10 @@
+fullname= Maze Statue #2
+desc= A small statue of a cherub.
+locdesc= Standing in the middle of the path is a small statue of a cherub.
+shortname= statue, cherub
+weight= 2000
+value= 0
+damage= 0
+respawn= 20
+location=924
+tooheavy= You cannot pick that up, it is too heavy.

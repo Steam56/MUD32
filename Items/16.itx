@@ -1,0 +1,9 @@
+fullname= a piece of driftwood
+desc= A large long tree branch that looks like it has been drifting in the ocean for quite some time. the sides are perfectlt smooth
+locdesc= You notice a large piece of driftwood
+shortname= drift, driftwood
+weight= 250
+value= 1
+damage= 0
+respawn= 20
+location=147

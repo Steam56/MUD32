@@ -1,0 +1,12 @@
+0 Lost In The Wine Cellar
+1 Surrounded by empty wine racks you continue to wander the maze like wine cellar. There seem to be exits all around you.
+2 n,north,525
+2 e,east,525
+2 s,south,525
+2 w,west,525
+2 ne,northeast,525
+2 se,southeast,525
+2 sw,southwest,525
+2 nw,northwest,525
+3 Jaruzel
+4 PALACE

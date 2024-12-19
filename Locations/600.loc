@@ -1,0 +1,6 @@
+0 The Taymark Arms
+1 You are standing outside &w1The Taymark Arms&c1, a small country alehouse. Typical in its design it is a smallish flagstone building of great age, with low windows and a small wooden door at it's entrance. Above the door are the words 'The Taymark Arms - Free House' inscribed ornately on a large wooden sign. Around you are some wooden benches and tables looking quite at home on the uneven cobbles. To the northeast is a quiet lane, to the west is the pub.
+2 ne,northeast,531
+2 w,west,601,You pull open the small wooden door and enter the pub.
+3 Jaruzel
+4 TAYMARKINN

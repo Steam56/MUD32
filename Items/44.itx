@@ -1,0 +1,9 @@
+fullname= a golden chalice
+desc= This is the Eucharistic cup, a bowl shaped vessel from which the 'blood' of Christ is drunk (cannibalism anyone?). It is empty, but still quite heavy.
+locdesc= Shining in the light is a golden chalice.
+shortname= chalice, cup
+weight= 300
+value= 350
+damage= 0
+respawn= 40
+location=407

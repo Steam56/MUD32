@@ -1,0 +1,9 @@
+fullname= a stinky cow pie
+desc= messy and revolting
+locdesc= Infront of you sits a stinky cow pie.
+shortname= pie, cowpie
+weight= 3
+value= -20
+damage= 0
+respawn= 20
+location=502

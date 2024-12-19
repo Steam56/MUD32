@@ -1,0 +1,9 @@
+fullname= an antique sewing machine
+desc= Bolted atop an iron pedestal the sewing machine is blue and cream in colour, athough the main sewing assembly has rusted up.
+locdesc= In front of you stands an antique sewing machine.
+shortname= sewing,machine,singer
+weight= 900
+value= 300
+damage= 0
+respawn= 30
+location=513

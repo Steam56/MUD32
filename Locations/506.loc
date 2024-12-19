@@ -1,0 +1,6 @@
+0 Outside The Palace
+1 You are standing in the porch of the old abandoned Palace, with the main entrance doors standing ajar to the north. Built of strong hardened wood, these doors are still in mint condition, the brass furnishings still glimmer in the light of the warm summer sun.  To the south there is a sea of green grass swaying in the gentle breeze.
+2 s,south,503
+2 n,north,507
+3 Jaruzel
+4 PALACE

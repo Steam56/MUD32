@@ -1,0 +1,2 @@
+Displays the Message Of The Day. \nUsage: MOTD
+SAYFILE misc/motd.txt

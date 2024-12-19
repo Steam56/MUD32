@@ -1,0 +1,3 @@
+&w1This helpfile will hold developer information.
+
+The ID command will tell you what the number of your current location is, and its available exits, useful for debugging.

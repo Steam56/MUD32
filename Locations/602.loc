@@ -1,0 +1,8 @@
+0 Taymark Arms - The Saloon Bar
+1 Quieter than the main bar that lies to the south, and slightly more spacious, the saloon bar is where you can sit, relax and chat with friends, or simply sit and read. There are comfy chairs all around and some dark oak tables. Glowing embers crackle quietly in the hearth of an ornate fireplace. In one corner there is a small staircase leading up with a sign next to it saying 'Private - Residents Only'.
+2 s,south,601
+2 u,up,607,You ignore the 'residents only' sign
+2 beer,drink,602,A pint of beer appears on the bar
+3 Jaruzel
+4 TAYMARKINN
+5 SAFE

@@ -1,0 +1,10 @@
+fullname= a lit torch
+desc= A small shaft of wood, wrapped in oil soaked cloth at one end. The cloth is lit and burns with a bright yellow flame.
+locdesc= On the ground is a lit torch, casting an orange glow.
+shortname= torch
+weight= 15
+value= 10
+damage= 5
+respawn= 20
+flags= -DARK -WATER
+location=6

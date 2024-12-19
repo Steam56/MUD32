@@ -1,0 +1,9 @@
+fullname= a rusty poker
+desc= A 2 foot iron poker, used for stoking fires. it looks fairly old and in some places the black iron is covered in rust.
+locdesc= On the floor is a rusty poker.
+shortname= poker, po
+weight= 100
+value= 50
+damage= 4
+respawn= 20
+location=602

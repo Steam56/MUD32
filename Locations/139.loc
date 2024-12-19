@@ -1,0 +1,7 @@
+0 Library
+1 Upon walking up the hill to the library you can see the intricate stone carvings that adorn the granite structure. Most of the structure has been covered by dense ivy and looks very overgrown. 
+1 The inside of the library has a musty odor, and is covered with the dust of a thousand books that have decayed away to almost nothing. Your heart weeps to think of all that lost knowledge. The large room is lit from shattered stained glass skylights in the roof. 
+2 O,Out,113,You leave the library...
+2 E,East,113,You leave the library...
+3 Natas
+4 ISLAND

@@ -1,0 +1,9 @@
+fullname= a cannonball
+desc= Black cannonball, it is quite heavy.
+locdesc= A Cannonball rolls slowly to stop in front of you.
+shortname= ball,cannonball
+weight= 950
+value= 150
+damage= 0
+respawn= 20
+location=659

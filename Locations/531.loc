@@ -1,0 +1,8 @@
+0 Under a Signpost, On The Dirt Road.
+1 You are standing under a signpost on a wide dirt road, that has been used quite heavily recently. The signpost points in 2 directions; Southwest to the Taymark Arms, and Northeast to Taymark itself. Bisecting the dirt road is a narrow path, leading northwest to disappear between some bushes and a high wall and leading southeast into some woods.
+2 nw,northwest,530
+2 ne,northeast,550
+2 sw,southwest,600
+2 se,southeast,536
+3 Jaruzel
+4 WOODS

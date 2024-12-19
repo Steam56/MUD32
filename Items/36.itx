@@ -1,0 +1,9 @@
+fullname= a joint of beef
+desc= a smelly rancid joint of beef covered in flies.
+locdesc= You notice some flies buzzing round a rancid joint of beef.
+shortname= beef,joint
+weight= 400
+value= 150
+damage= 0
+respawn= 20
+location=663

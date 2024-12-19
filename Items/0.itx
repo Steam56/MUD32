@@ -1,0 +1,9 @@
+fullname= a small diamond ring
+desc= A small ring designed for petite fingers, with a single solitare diamond in an ornate mount.
+locdesc= A small diamond ring glints on the floor.
+shortname= ring,diamond
+weight= 10
+value= 250
+damage= 0
+respawn= 20
+location=502

@@ -1,0 +1,17 @@
+<Location Number="1" Owner="Jaruzel" Zone="CAVES">
+   <Info>
+      <Title>The Emergence Cave</Title>
+      <Description>You are standing in the middle of a large cave. Fantastic stalagtites hang from the ceiling, they look like they have been growing slowly downwards for millions of years. The floor beneath you is fine dry sand, and the whole chamber is cast with a yellowish glow.This cave looks to be one of many open areas connected by a network of tunnels and archways. There are four such archways leading off North, South, East and West.</Description>
+   </Info>
+   <Data>
+      <Flags>SAFE</Flags>
+      <Links LinkTo="3">
+         <ShortName>W</ShortName>
+         <LongName>West</LongName>
+      </Links>
+      <Links LinkTo="4">
+         <ShortName>E</ShortName>
+         <LongName>East</LongName>
+      </Links>
+   </Data>
+</Location>

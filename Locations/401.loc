@@ -1,0 +1,10 @@
+0 The Courtyard
+1 You step from the circle into a large open courtyard, it has the look of an old roman barracks on the ruind wall of hadrian.
+1 To the north is a tunnel, to the East some stairs leading to the ramparts, to the west is an old shed.
+1 To the south lies the ring of stones.
+2 N,north,402
+2 E,East,409
+2 W,West,408
+2 S,South,400
+3 RogueAngel
+4 ZONE_NAME

@@ -1,0 +1,9 @@
+0 A Fallow Field
+1 You are in the middle of a large fallow field. Rye grass brushes your ankles and is it clear to see that this field has not been used for many years. Through the centre of the grass is a well trodden dirt path, arcing from the west up to the north.
+1 You can follow the path northwards to what looks like impressive gates and a high stone wall. To the west the path continues through the grassland. To the east is a small hill in which there is an entrance to a cave. The field continues down the hill to the south. You can smell salt in the air.
+2 s,south,560
+2 n,north,500
+2 w,west,541
+2 e,east,3
+3 Jaruzel
+4 PALACE

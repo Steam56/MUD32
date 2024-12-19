@@ -1,0 +1,9 @@
+fullname= the hollowed out head of McFly
+desc= A very neat artifact. It is an actual human head that has been hollowed out, fashioned with a metal handle, and the eye sockets have been filled with 2 of the largest stones you have ever seen. The mouth is twisted into a menacing scowl and  bobs happily as you wave it in the air.
+locdesc= Infront of you rests the hollowed out head of McFly
+shortname= head, McFly, hollowed head
+weight= 30
+value= 300
+damage= 0
+respawn= 20
+location=118

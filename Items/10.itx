@@ -1,0 +1,9 @@
+fullname= a packet of crisps
+desc= A blue and white packet of salt and vinegar crisps, they look somewhat stale.
+locdesc= On the ground is a packet of crisps.
+shortname= crisps,packet
+weight= 10
+value= 10
+damage= 0
+respawn= 20
+location=148

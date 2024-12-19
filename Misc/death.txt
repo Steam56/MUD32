@@ -1,0 +1,5 @@
+&w1Before you take your last breath, and your view fades out, you see a shimmering image of an old wizened man appear before you. 
+&w1He glances at you, shakes his head in sorrow and scribbles a number on his clipboard, and promptly vanishes.
+
+&r1You have died.
+

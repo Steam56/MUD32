@@ -1,0 +1,8 @@
+0 Along the Dirt Road.
+1 You are travelling along a wide dirt road. Along each side of the road are fields bordered by fences. There is a break in the fence to the east and in the field behind it is a large stone circle.
+1 The dirt road continues to the north and to the southwest.
+2 n,north,550,The locations beyond this point are not created yet. 
+2 e,east,550,The break in the fence is not currently large enough for you to pass through.
+2 sw,southwest,531
+3 Jaruzel
+4 WOODS

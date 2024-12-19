@@ -1,0 +1,8 @@
+0 Narrow Footpath
+1 You are walking along a narrow footpath that runs eastward along the Palace Garden wall. It rises up ten feet or more to the north of you, and cannot be climbed.
+1 The path widens out to the east of you, and the Palace gates can be seen to the west. To the south there is a large copse of bushes.
+2 e,east,530
+2 w,west,500
+2 s,south,502
+3 Jaruzel
+4 PALACE

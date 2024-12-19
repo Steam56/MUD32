@@ -1,0 +1,9 @@
+fullname= a gold horseshoe
+desc= A horseshoe fashioned out of gold, and quite heavy.
+locdesc= On the floor in front of you is a gold horseshoe.
+shortname= shoe,horseshoe
+weight= 800
+value= 400
+damage= 0
+respawn= 20
+location=528

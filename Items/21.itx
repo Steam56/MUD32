@@ -1,0 +1,9 @@
+fullname= a pair of dice
+desc= The dice are intricate and well crafted from very fine ivory. The dots are deep black
+locdesc= Resting on the floor is a pair of dice
+shortname= dice
+weight= 2
+value= 10
+damage= 0
+respawn= 20
+location=141

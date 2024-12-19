@@ -1,0 +1,9 @@
+fullname= a dented iron tankard
+desc= An old iron tankard, covered in dents.
+locdesc= On the floor is a dented tankard.
+shortname= tankard
+weight= 50
+value= 75
+damage= 0
+respawn= 20
+location=142

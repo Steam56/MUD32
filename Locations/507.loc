@@ -1,0 +1,8 @@
+0 Entrance Hall
+1 The Entrance Hall is a small room just south of the Main Hall, it is here that guests awaited for an audience with the Patrician.  There are also small stone stairs in the corner of the room leading up and down. Large open doors lead north to the Main Hall, and the way out leads south.
+2 s,south,506
+2 d,down,508
+2 u,up,509
+2 n,north,511
+3 Jaruzel
+4 PALACE

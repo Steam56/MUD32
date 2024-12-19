@@ -1,0 +1,11 @@
+&w1The &c1ADMIN&w1 command is for immortals and above and can administrate a few of the worlds features.
+
+&c1ADMIN RESET         &w1Reset ALL items to their original locations.
+&c1ADMIN SAYTO x msg   &w1Say msg to player x as console.
+&c1ADMIN SYSMSG msg    &w1Broadcast a message across the world.
+&c1ADMIN SETUSER user level
+                       &w1Adjust player level 0 to 3.
+&c1ADMIN SHUTDOWN      &w1Shuts down the server. (Be Careful!)
+&c1ADMIN KICK id       &w1Kicks player on socket number 'id'
+        
+

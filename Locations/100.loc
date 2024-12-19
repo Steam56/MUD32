@@ -1,0 +1,6 @@
+0 Rocky Cliff
+1 Standing on the edge of the cliff you notice a sea mist obscuring the view. Peering out into the dense peasoup fog you notice the faint outline of an opposing rocky ledge but you can tell that it's some distance away. Tethered to the edge of the cliff is a rickety rope bridge leading east out over the sea towards the opposing cliff face.
+2 e,east,101,Gingerly you step onto the rope bridge...
+2 nw,northwest,560
+3 Natas
+4 BRIDGE

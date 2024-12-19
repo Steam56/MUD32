@@ -1,0 +1,10 @@
+fullname= a shiney black orb
+desc= Around 12" in diamater the orb captivates your attention to the point where it's almost impossible to break your gaze free from it's vaccuous stare. When let go the orb hovers about 3 feet from the ground. You are amazed that the orb is nearly weightless
+locdesc= Quicky grabbing your attention is a shiney black orb hovering above the ground.
+shortname= orb, black orb
+weight= 1
+value= 300
+damage= 0
+respawn= 20
+location=104
+location=105

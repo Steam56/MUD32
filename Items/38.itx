@@ -1,0 +1,9 @@
+fullname= a gold pocket watch
+desc= an ornate gold pocket watch wth the inscription 'To CJ with all my love' on the inside of the lid.
+locdesc= A gold pocket watch is here.
+shortname= watch,pocket
+weight= 100
+value= 300
+damage= 0
+respawn= 40
+location=664

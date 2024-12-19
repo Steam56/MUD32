@@ -1,0 +1,9 @@
+fullname= a blop of orange goo
+desc= A greesy messy blob of orange goo. It is very slippery and viscous in your hands.
+locdesc= On the ground is a blop of orange goo.
+shortname= goo, blop, orange
+weight= 10
+value= 2
+damage= 0
+respawn= 20
+location=138

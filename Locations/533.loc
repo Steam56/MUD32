@@ -1,0 +1,6 @@
+0 The Vegetable Garden
+1 You are standing to the north of the maze, in the middle of a vegetable Garden. The garden runs alongside the rear wall of the Palace, and you notice that part of the wall has crumbled away revealing a small passageway that leads west.
+2 s,south,930
+2 w,west,515,You clamber into the passageway which quickly turns out to be a vent shaft leading into...
+3 Jaruzel
+4 PALACE

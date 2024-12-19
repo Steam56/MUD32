@@ -1,0 +1,9 @@
+fullname= a shovel
+desc= A rugged metal shovel consisting of a stout wooden pole bolted onto an extremely sharp iron spade
+locdesc= You notice a shovel lying on the ground
+shortname= shovel
+weight= 300
+value= 30
+damage= 0
+respawn= 20
+location=131

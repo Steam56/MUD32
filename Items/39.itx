@@ -1,0 +1,9 @@
+fullname= an oak staff
+desc= A six foot wooden staff made of fine oak, capped with a n ornate metal fixture in the shape of a lightening bolt.
+locdesc= In front of you is a long wooden staff.
+shortname= staff
+weight= 250
+value= 75
+damage= 5
+respawn= 20
+location=419
